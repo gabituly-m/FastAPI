@@ -3,6 +3,7 @@
 API that gives news regarding AITU
 
 this REST API has already deployed to heroku, so you can access by link
-endpoint: https://aituapi.herokuapp.com/api/v1/news
+endpoint: https://aituapi.herokuapp.com
+news link with JSON format: https://aituapi.herokuapp.com/api/v1/news
 https://aituapi.herokuapp.com/docs
 https://aituapi.herokuapp.com/redoc
